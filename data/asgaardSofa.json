@@ -1,0 +1,37 @@
+[
+  {
+    "id": "SS001",
+    "name": "Asgaard Sofa",
+    "price": "Rs. 250,000.00",
+    "desc": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
+    "image": "/images/Asgaardsofa1.png"
+  },
+  {
+    "id": "SS002",
+    "name": "Asgaard Sofa Classic",
+    "price": "Rs. 230,000.00",
+    "desc": "Classic and comfortable sofa with a stylish design, perfect for a modern living room.",
+    "image": "/images/Asgaardsofa4.png"
+  },
+  {
+    "id": "SS003",
+    "name": "Asgaard Sofa Premium",
+    "price": "Rs. 280,000.00",
+    "desc": "Premium sofa with a luxurious design and comfortable seating for your living space.",
+    "image": "/images/Asgaardsofa5.png"
+  },
+  {
+    "id": "SS004",
+    "name": "Asgaard Sofa Comfort",
+    "price": "Rs. 265,000.00",
+    "desc": "Comfortable sofa with a soft design that brings style and relaxation to your living room.",
+    "image": "/images/Asgaardsofa6.png"
+  },
+  {
+    "id": "SS005",
+    "name": "Asgaard Sofa Luxury",
+    "price": "Rs. 300,000.00",
+    "desc": "Luxury sofa with an elegant design, made for a premium and sophisticated living space.",
+    "image": "/images/Asgaardsofa7.png"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Productimg1.png",
+    "name": "Syltherine",
+    "desc": "Stylish cafe chair",
+    "price": "Rp 2.500.000",
+    "oldPrice": "Rp 3.500.000",
+    "badge": "-30%",
+    "badgeColor": "bg-[#E97171]"
+  },
+  {
+    "id": 2,
+    "image": "/images/Productimg2.png",
+    "name": "Leviosa",
+    "desc": "Stylish cafe chair",
+    "price": "Rp 2.500.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]",
+    "active": true
+  },
+  {
+    "id": 3,
+    "image": "/images/Productimg3.png",
+    "name": "Lolito",
+    "desc": "Luxury big sofa",
+    "price": "Rp 7.000.000",
+    "oldPrice": "Rp 14.000.000",
+    "badge": "-50%",
+    "badgeColor": "bg-[#E97171]"
+  },
+  {
+    "id": 4,
+    "image": "/images/Productimg4.png",
+    "name": "Respira",
+    "desc": "Outdoor bar table",
+    "price": "Rp 500.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  },
+  {
+    "id": 5,
+    "image": "/images/Productimg5.png",
+    "name": "Grifo",
+    "desc": "Night lamp",
+    "price": "Rp 1.500.000"
+  },
+  {
+    "id": 6,
+    "image": "/images/Productimg6.png",
+    "name": "Muggo",
+    "desc": "Small mug",
+    "price": "Rp 150.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  },
+  {
+    "id": 7,
+    "image": "/images/Productimg7.png",
+    "name": "Pingky",
+    "desc": "Cute bed set",
+    "price": "Rp 7.000.000",
+    "badge": "-50%",
+    "badgeColor": "bg-[#E97171]"
+  },
+  {
+    "id": 8,
+    "image": "/images/Productimg8.png",
+    "name": "Potty",
+    "desc": "Minimalist flower pot",
+    "price": "Rp 500.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  },
+  {
+    "id": 9,
+    "image": "/images/Productimg1.png",
+    "name": "Mellor",
+    "desc": "Modern cafe chair",
+    "price": "Rp 3.000.000",
+    "oldPrice": "Rp 4.000.000",
+    "badge": "-25%",
+    "badgeColor": "bg-[#E97171]"
+  },
+  {
+    "id": 10,
+    "image": "/images/Productimg2.png",
+    "name": "Respira",
+    "desc": "Stylish outdoor table",
+    "price": "Rp 500.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  },
+  {
+    "id": 11,
+    "image": "/images/Productimg3.png",
+    "name": "Lolito",
+    "desc": "Luxury sofa",
+    "price": "Rp 8.000.000",
+    "oldPrice": "Rp 15.000.000",
+    "badge": "-50%",
+    "badgeColor": "bg-[#E97171]"
+  },
+  {
+    "id": 12,
+    "image": "/images/Productimg4.png",
+    "name": "Leviosa",
+    "desc": "Comfortable cafe chair",
+    "price": "Rp 2.500.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  },
+  {
+    "id": 13,
+    "image": "/images/Productimg5.png",
+    "name": "Grifo",
+    "desc": "Elegant night lamp",
+    "price": "Rp 1.500.000"
+  },
+  {
+    "id": 14,
+    "image": "/images/Productimg6.png",
+    "name": "Muggo",
+    "desc": "Small decorative mug",
+    "price": "Rp 150.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  },
+  {
+    "id": 15,
+    "image": "/images/Productimg7.png",
+    "name": "Pingky",
+    "desc": "Cute bedroom set",
+    "price": "Rp 7.000.000",
+    "badge": "-50%",
+    "badgeColor": "bg-[#E97171]"
+  },
+  {
+    "id": 16,
+    "image": "/images/Productimg8.png",
+    "name": "Potty",
+    "desc": "Minimalist flower pot",
+    "price": "Rp 500.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  }
+]

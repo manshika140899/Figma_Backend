@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Productimg1.png",
+    "name": "Syltherine",
+    "desc": "Stylish cafe chair",
+    "price": "Rp 2.500.000",
+    "oldPrice": "Rp 3.500.000",
+    "badge": "-30%",
+    "badgeColor": "bg-[#E97171]"
+  },
+  {
+    "id": 2,
+    "image": "/images/Productimg2.png",
+    "name": "Leviosa",
+    "desc": "Stylish cafe chair",
+    "price": "Rp 2.500.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  },
+  {
+    "id": 3,
+    "image": "/images/Productimg3.png",
+    "name": "Lolito",
+    "desc": "Luxury big sofa",
+    "price": "Rp 7.000.000",
+    "oldPrice": "Rp 14.000.000",
+    "badge": "-50%",
+    "badgeColor": "bg-[#E97171]"
+  },
+  {
+    "id": 4,
+    "image": "/images/Productimg4.png",
+    "name": "Respira",
+    "desc": "Outdoor bar table and stool",
+    "price": "Rp 500.000",
+    "badge": "New",
+    "badgeColor": "bg-[#2EC1AC]"
+  }
+]

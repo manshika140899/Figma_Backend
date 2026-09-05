@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "title": "Dining",
+    "price": "Rs. 25,000",
+    "desc": "Dining furniture",
+    "image": "/images/BrowserSec1.png",
+    "type": "browse"
+  },
+  {
+    "id": 2,
+    "title": "Living",
+    "productId": 2,
+    "price": "Rs. 30,000",
+    "desc": "Living furniture",
+    "image": "/images/BrowserSec2.png",
+    "type": "browse"
+  },
+  {
+    "id": 3,
+    "title": "Bedroom",
+    "productId": 3,
+    "price": "Rs. 35,000",
+    "desc": "Bedroom furniture",
+    "image": "/images/BrowserSec3.png",
+    "type": "browse"
+  }
+]
