@@ -7,7 +7,7 @@ const router = express.Router();
 const filePath = path.join(process.cwd(), "data","orders.json");
 
 
-router.post("/", (req, res) => {
+router.get("/", (req, res) => {
 
   fs.readFile(filePath, "utf-8", (err, file) => {
 
