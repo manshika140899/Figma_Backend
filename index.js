@@ -121,6 +121,24 @@ app.use(express.json());
 // app.use(express.static("public"));
 app.use(express.static(path.join(__dirname, "public")));
 
+
+
+app.get("/test-image", (req, res) => {
+  const fs = require("fs");
+
+  const imagePath = path.join(
+    __dirname,
+    "public",
+    "images",
+    "BrowserSec1.png"
+  );
+
+  res.json({
+    exists: fs.existsSync(imagePath),
+    path: imagePath,
+  });
+});
+
 // ===============================
 // ROUTES
 // ===============================
