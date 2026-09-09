@@ -111,6 +111,9 @@
 
 
 const express = require("express");
+
+const fs = require("fs");
+
 const cors = require("cors");
 const path = require("path");
 
@@ -120,6 +123,30 @@ app.use(cors());
 app.use(express.json());
 // app.use(express.static("public"));
 app.use(express.static(path.join(__dirname, "public")));
+
+
+
+
+
+app.get("/debug-files", (req, res) => {
+  const publicPath = path.join(__dirname, "public");
+  const imagesPath = path.join(__dirname, "public", "images");
+
+  res.json({
+    dirname: __dirname,
+    publicExists: fs.existsSync(publicPath),
+    imagesExists: fs.existsSync(imagesPath),
+    browserSec1Exists: fs.existsSync(
+      path.join(imagesPath, "BrowserSec1.png")
+    ),
+    files: fs.existsSync(imagesPath)
+      ? fs.readdirSync(imagesPath).slice(0, 20)
+      : [],
+  });
+});
+
+
+
 
 
 // ===============================
